@@ -42,7 +42,7 @@
 # 코드 리뷰를 통해 개선한 코드가 있다면 코드와 간략한 설명을 첨부합니다.
 ```
 
-----
+```bash```
 AIFFEL_quest_cr
 ├── MainQuest
 │   ├── Quest01
@@ -57,7 +57,19 @@ AIFFEL_quest_cr
 │   ├── Quest04
 │   │   ├── .ipynb
 │   │   └── README.md
-│   └── Quest05
+│   ├── Quest05
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest06
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest07
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest08
+│   │   ├── .ipynb
+│   │   └── README.md
+│   └── Quest09
 │       ├── .ipynb
 │       └── README.md
 └── Exploration
