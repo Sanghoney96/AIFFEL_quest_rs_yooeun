@@ -72,7 +72,7 @@ AIFFEL_quest_rs
 │   └── Quest09
 │       ├── .ipynb
 │       └── README.md
-└── Exploration
+├── Exploration
 │   ├── Ex01
 │   │   ├── .ipynb
 │   │   └── README.md
@@ -88,10 +88,7 @@ AIFFEL_quest_rs
 │   └── Ex05
 │       ├── .ipynb
 │       └── README.md
-.
-.
-.
-├── Going Deper
+└──Going Deper
 .
 .
 .
