@@ -31,7 +31,7 @@
     - 해당 코드의 기능, 존재 이유, 작동 원리 등을 기술했는지 확인
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-     
+
 
         
 - [ ]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
@@ -44,6 +44,12 @@
       ![image](https://github.com/user-attachments/assets/91fd4cc6-b0b5-46e6-8be7-aa7627398e2a)
 
       - 다음과 같이 챗봇의 결과를 확인하며 실험하였습니다.
+     
+      ![image](https://github.com/user-attachments/assets/3c586955-c0c6-4a0f-ad9e-e66efc27d155)
+
+      ![image](https://github.com/user-attachments/assets/bb644538-5a17-45f6-a549-3c03437f1b0a)
+
+
 
         
 - [ ]  **4. 회고를 잘 작성했나요?**
